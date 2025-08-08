@@ -1,4 +1,4 @@
-# Software Systems Development — Lab Activity 1
+# Software Systems Development (SSD) — Lab Activity 1
 
 **Language:** C++
 
