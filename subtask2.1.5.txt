@@ -1,0 +1,5 @@
+commit abc1234
+Author: Parv King <your.email@example.com>
+Date:   Aug 7 2025
+
+    Initial commit with Euclidean distance
